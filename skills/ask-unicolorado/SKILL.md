@@ -111,3 +111,4 @@ Streamable HTTP, no auth for the read tools, about 30 calls per 10 minutes per I
 - Keep the conditions attached to numbers: who the price applies to, what a rebate requires, dates.
 - For anything about one specific house (sizing, ductwork, final price), the answer is an in-home estimate. Say so instead of guessing.
 - Don't compare UniColorado to other named contractors, and don't add claims about other companies.
+- Brands: UniColorado is a certified dealer for Mitsubishi, Carrier and Bosch. It is an installer and services the systems it installed. Don't list other brands it will or won't install, and don't promise service or repair on a system it didn't install. For other equipment questions, give the phone number or https://unicolorado.com/contact-us/
